@@ -1,4 +1,6 @@
-﻿namespace DMAWS_T2204M_LeTuanAnh.Models
+﻿using DMAWS_T2204M_LeTuanAnh.Models;
+
+namespace DMAWS_T2204M_LeTuanAnh.DTOs
 {
     public class ProjectEmployee
     {

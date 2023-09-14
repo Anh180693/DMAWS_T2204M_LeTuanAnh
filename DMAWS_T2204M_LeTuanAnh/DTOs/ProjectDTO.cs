@@ -1,6 +1,6 @@
-﻿namespace DMAWS_T2204M_LeTuanAnh.Models
+﻿namespace DMAWS_T2204M_LeTuanAnh.DTOs
 {
-    public class Project
+    public class ProjectDTO
     {
         public int ProjectId { get; set; }
         public string ProjectName { get; set; }

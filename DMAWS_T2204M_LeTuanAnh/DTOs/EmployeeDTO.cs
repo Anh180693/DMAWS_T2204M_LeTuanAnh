@@ -1,6 +1,6 @@
-﻿namespace DMAWS_T2204M_LeTuanAnh.Models
+﻿namespace DMAWS_T2204M_LeTuanAnh.DTOs
 {
-    public class Employee
+    public class EmployeeDTO
     {
         public int EmployeeId { get; set; }
         public string EmployeeName { get; set; }
